@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://tortoisesecurity.com/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://tortoisesecurity.com/</loc>
+</url>
+<url>
+<loc>https://tortoisesecurity.com/po\cism-overview-crib-sheet/</loc>
+</url>
+<url>
+<loc>https://tortoisesecurity.com/po\cism-part-1-enterprise-governance/</loc>
+</url>
+<url>
+<loc>https://tortoisesecurity.com/po\cism-part-1-introduction/</loc>
+</url>
+<url>
+<loc>https://tortoisesecurity.com/po\investigatory-powers-act-crib-sheet/</loc>
+</url>
+<url>
+<loc>https://tortoisesecurity.com/po\uk-computer-misuse-act-crib-sheet/</loc>
+</url>
+<url>
+<loc>https://tortoisesecurity.com/po\uk-gdpr-crib-sheet/</loc>
+</url>
+<url>
+<loc>https://tortoisesecurity.com/po\uk-network-information-systems-nis-crib-sheet/</loc>
+</url>
+<url>
+<loc>https://tortoisesecurity.com/example-page/</loc>
+<lastmod>2024-09-24T14:23:07+01:00</lastmod>
+</url>
+</urlset>

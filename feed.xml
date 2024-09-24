@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Tortoise Security</title>
+    <link href="https://tortoisesecurity.com/feed.xml" rel="self" />
+    <link href="https://tortoisesecurity.com" />
+    <updated>2024-09-24T16:56:59+01:00</updated>
+    <author>
+        <name>GreatUnbroken</name>
+    </author>
+    <id>https://tortoisesecurity.com</id>
+
+    <entry>
+        <title>Investigatory Powers Act Crib Sheet</title>
+        <author>
+            <name>GreatUnbroken</name>
+        </author>
+        <link href="https://tortoisesecurity.com/po/investigatory-powers-act-crib-sheet/"/>
+        <id>https://tortoisesecurity.com/po/investigatory-powers-act-crib-sheet/</id>
+            <category term="Crib Sheets"/>
+
+        <updated>2024-08-17T19:02:00+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <h4><strong>What is it?</strong></h4>
+<ul>
+<li>Known as the <strong>IPA</strong> or <strong>"Snooper's Charter"</strong>, this UK law gives the government wide-ranging powers to monitor and intercept communications for <strong>national security</strong>, <strong>crime prevention</strong>, and <strong>public safety</strong>.</li>
+<li>It regulates the powers of law enforcement, intelligence agencies, and public authorities to <strong>conduct surveillance</strong> and <strong>access data</strong>.</li>
+</ul>
+<h3><strong>Key Powers in the Act</strong></h3>
+<ol>
+<li>
+<p><strong>Bulk Data Collection:</strong></p>
+<ul>
+<li>Allows agencies to collect <strong>large volumes of data</strong> (like internet history and phone records) to look for suspicious activity.</li>
+</ul>
+</li>
+<li>
+<p><strong>Internet Connection Records (ICRs):</strong></p>
+<ul>
+<li><strong>Internet Service Providers (ISPs)</strong> must store a year’s worth of customers’ internet connection data (sites visited, not specific pages).</li>
+<li>Law enforcement can access this for <strong>crime investigations</strong>.</li>
+</ul>
+</li>
+<li>
+<p><strong>Interception of Communications:</strong></p>
+<ul>
+<li>Agencies (e.g., MI5, MI6, GCHQ) can <strong>intercept emails, phone calls, and messages</strong> with a warrant.</li>
+<li>Often used for counter-terrorism and serious crime.</li>
+</ul>
+</li>
+<li>
+<p><strong>Equipment Interference (Hacking):</strong></p>
+<ul>
+<li>Authorities can <strong>hack into devices</strong> (computers, phones, etc.) to gather information, with authorization.</li>
+</ul>
+</li>
+<li>
+<p><strong>Bulk Personal Datasets (BPDs):</strong></p>
+<ul>
+<li>Agencies can maintain large databases of <strong>personal information</strong>, which may include data on innocent individuals for intelligence purposes.</li>
+</ul>
+</li>
+<li>
+<p><strong>Targeted Surveillance:</strong></p>
+<ul>
+<li>Covers <strong>covert surveillance</strong> of individuals, including monitoring communications, with judicial approval.</li>
+</ul>
+</li>
+</ol>
+<h3><strong>Oversight &amp; Safeguards</strong></h3>
+<ol>
+<li><strong>Warrants Required:</strong>
+<ul>
+<li>Most surveillance powers require a <strong>warrant</strong> approved by a <strong>Secretary of State</strong> and an independent <strong>judicial commissioner</strong>.</li>
+</ul>
+</li>
+<li><strong>Investigatory Powers Commissioner (IPCO):</strong>
+<ul>
+<li>Independent body overseeing the use of these powers, ensuring they are lawful and proportionate.</li>
+</ul>
+</li>
+<li><strong>Double Lock Mechanism:</strong>
+<ul>
+<li>Both government ministers and judicial commissioners must sign off on warrants for interception, hacking, and bulk data collection.</li>
+</ul>
+</li>
+</ol>
+<h3><strong>Criticism and Concerns</strong></h3>
+<ul>
+<li><strong>Privacy concerns:</strong> The law has been criticized for enabling <strong>mass surveillance</strong> and collecting data on innocent people.</li>
+<li><strong>Security risks:</strong> Critics argue that storing large amounts of personal data (like ICRs) increases the risk of <strong>cyber-attacks</strong> and data breaches.</li>
+<li><strong>Freedom of Speech:</strong> Some worry it could have a chilling effect on free speech, especially online.</li>
+</ul>
+<h3><strong>Penalties for Misuse</strong></h3>
+<ul>
+<li>Misusing the powers under the IPA can lead to severe <strong>criminal penalties</strong>, including <strong>imprisonment</strong> and <strong>fines</strong> for unauthorized surveillance or breaches of privacy protections.</li>
+</ul>
+<h3><strong>Who Does the IPA Affect?</strong></h3>
+<ul>
+<li><strong>Internet Service Providers (ISPs):</strong> Required to retain and provide access to user data.</li>
+<li><strong>Telecom Companies:</strong> Must retain communication data and cooperate with law enforcement.</li>
+<li><strong>Public Authorities &amp; Law Enforcement:</strong> Can request data access for investigations.</li>
+<li><strong>Everyday Users:</strong> Your internet connection history and communication data can be accessed by law enforcement with a warrant.</li>
+</ul>
+<h3><strong>Practical Takeaways</strong></h3>
+<ul>
+<li>If you use the internet or any form of digital communication in the UK, your data can be stored and accessed by the government for up to a year.</li>
+<li>The law aims to balance <strong>national security</strong> with <strong>privacy</strong>, but it’s a hot topic of debate regarding how far surveillance should go.</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>CISM Overview Crib Sheet</title>
+        <author>
+            <name>GreatUnbroken</name>
+        </author>
+        <link href="https://tortoisesecurity.com/po/cism-overview-crib-sheet/"/>
+        <id>https://tortoisesecurity.com/po/cism-overview-crib-sheet/</id>
+            <category term="Crib Sheets"/>
+            <category term="CISM"/>
+
+        <updated>2024-08-01T21:30:00+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <h4><strong>What is CISM?</strong></h4>
+<ul>
+<li>Stands for <strong>Certified Information Security Manager</strong>.</li>
+<li>A globally recognized <strong>certification</strong> by ISACA for professionals managing and overseeing enterprise information security.</li>
+<li>Focuses on managing and aligning <strong>security programs</strong> with business goals.</li>
+</ul>
+<h3><strong>What Does CISM Cover?</strong></h3>
+<ol>
+<li>
+<p><strong>Information Security Governance:</strong></p>
+<ul>
+<li>Culture, legal and reg requirements, structures and responsibilities.</li>
+<li>Establishing and managing an <strong>information security strategy</strong>.</li>
+<li>Aligning security with <strong>business objectives</strong>.</li>
+<li>Creating policies, frameworks, and structures for security oversight.</li>
+</ul>
+</li>
+<li>
+<p><strong>Information Risk Management:</strong></p>
+<ul>
+<li>Identifying and assessing security risks.</li>
+<li>Developing strategies to <strong>mitigate risks</strong> and reduce impact on business.</li>
+<li>Implementing controls to manage and monitor risks.</li>
+</ul>
+</li>
+<li>
+<p><strong>Information Security Program Development &amp; Management:</strong></p>
+<ul>
+<li>Building and maintaining an effective <strong>security program</strong>.</li>
+<li>Defining security roles, responsibilities, and processes.</li>
+<li>Ensuring <strong>compliance</strong> with laws, regulations, and standards (e.g., GDPR, NIST).</li>
+</ul>
+</li>
+<li>
+<p><strong>Incident Management:</strong></p>
+<ul>
+<li>Planning and executing <strong>incident response</strong> strategies.</li>
+<li>Minimizing the impact of security breaches and ensuring <strong>business continuity</strong>.</li>
+<li>Handling everything from detection to recovery and reporting.</li>
+</ul>
+</li>
+</ol>
+<h3><strong>Why is CISM Useful?</strong></h3>
+<ol>
+<li>
+<p><strong>Career Booster:</strong></p>
+<ul>
+<li>CISM certifies your skills in <strong>managing and leading</strong> cybersecurity teams.</li>
+<li>It’s recognized globally, opening doors for roles like <strong>Security Manager, Chief Information Security Officer (CISO)</strong>, and more.</li>
+</ul>
+</li>
+<li>
+<p><strong>Strategic Focus:</strong></p>
+<ul>
+<li>CISM focuses on aligning <strong>security programs</strong> with <strong>business goals</strong>, making you a key player in protecting business value.</li>
+</ul>
+</li>
+<li>
+<p><strong>Risk Management Expertise:</strong></p>
+<ul>
+<li>You become skilled at <strong>identifying, assessing, and managing risks</strong>, which is critical in preventing security incidents that could disrupt business operations.</li>
+</ul>
+</li>
+<li>
+<p><strong>Leadership Skills:</strong></p>
+<ul>
+<li>CISM equips you to lead <strong>security teams</strong> and make decisions that safeguard the organization while balancing business needs.</li>
+</ul>
+</li>
+</ol>
+<h3><strong>Who is CISM For?</strong></h3>
+<ul>
+<li>Professionals managing or overseeing <strong>information security</strong> for businesses.</li>
+<li>Ideal for those in roles like:
+<ul>
+<li><strong>Security Manager</strong></li>
+<li><strong>IT Manager</strong></li>
+<li><strong>Risk Manager</strong></li>
+<li><strong>Compliance Manager</strong></li>
+<li>Aspiring <strong>CISOs</strong></li>
+</ul>
+</li>
+</ul>
+<h3><strong>CISM Certification Path</strong></h3>
+<ul>
+<li><strong>Requirements:</strong>
+<ul>
+<li>5+ years of <strong>work experience</strong> in information security management.</li>
+<li>Experience waivers available for some education or certifications.</li>
+</ul>
+</li>
+<li><strong>Exam:</strong>
+<ul>
+<li>150 questions, <strong>4 hours</strong>, covers the key domains (Governance, Risk, Program Development, and Incident Management).</li>
+</ul>
+</li>
+<li><strong>Maintain Certification:</strong>
+<ul>
+<li>Earn <strong>CPE credits</strong> annually and pay renewal fees to keep your certification active.</li>
+</ul>
+</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>UK Computer Misuse Act Crib Sheet</title>
+        <author>
+            <name>GreatUnbroken</name>
+        </author>
+        <link href="https://tortoisesecurity.com/po/uk-computer-misuse-act-crib-sheet/"/>
+        <id>https://tortoisesecurity.com/po/uk-computer-misuse-act-crib-sheet/</id>
+            <category term="Crib Sheets"/>
+
+        <updated>2024-07-30T17:19:00+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <h4><strong>What is the Computer Misuse Act 1990?</strong></h4>
+<ul>
+<li>A <strong>UK law</strong> designed to prevent <strong>unauthorized access</strong> to computers and data.</li>
+<li>Covers <strong>hacking</strong>, <strong>cybercrime</strong>, and other misuse of IT systems.</li>
+<li>Criminalizes certain actions to protect individuals, businesses, and governments from cyber threats.</li>
+</ul>
+<h3><strong>Key Offences</strong></h3>
+<ol>
+<li>
+<p><strong>Unauthorized Access (Hacking):</strong></p>
+<ul>
+<li>Gaining access to someone’s computer system or data <strong>without permission</strong>.</li>
+<li>Doesn’t matter if no damage is done—<strong>just getting in</strong> is illegal.</li>
+<li>Penalty: Up to <strong>2 years</strong> in prison and/or a fine.</li>
+</ul>
+</li>
+<li>
+<p><strong>Unauthorized Access with Intent to Commit Further Offences:</strong></p>
+<ul>
+<li>If you hack into a system with plans to commit another crime (fraud, blackmail, etc.).</li>
+<li>Penalty: Up to <strong>5 years</strong> in prison and/or a fine.</li>
+</ul>
+</li>
+<li>
+<p><strong>Unauthorized Acts with Intent to Impair Operations:</strong></p>
+<ul>
+<li>This includes using malware, viruses, or denial-of-service attacks (DDoS) to disrupt or damage a system.</li>
+<li>Penalty: Up to <strong>10 years</strong> in prison and/or a fine.</li>
+</ul>
+</li>
+<li>
+<p><strong>Making, Supplying, or Obtaining Hacking Tools:</strong></p>
+<ul>
+<li>Creating, distributing, or owning software meant for hacking or illegal activities is also a crime.</li>
+<li>Penalty: Up to <strong>2 years</strong> in prison and/or a fine.</li>
+</ul>
+</li>
+</ol>
+<h3><strong>Examples of Illegal Activities</strong></h3>
+<ul>
+<li><strong>Hacking</strong> into email or social media accounts.</li>
+<li><strong>Sending viruses</strong> to crash systems or steal information.</li>
+<li><strong>Phishing</strong> for login details or sensitive data.</li>
+<li>Using <strong>DDoS attacks</strong> to take down websites or services.</li>
+<li>Selling or distributing <strong>hacking tools</strong> like keyloggers or ransomware.</li>
+</ul>
+<h3><strong>Penalties</strong></h3>
+<ul>
+<li>Fines and <strong>prison sentences</strong> depending on the severity:
+<ul>
+<li>Minor: <strong>Up to 2 years</strong>.</li>
+<li>Serious: <strong>Up to 10 years</strong>.</li>
+</ul>
+</li>
+</ul>
+<h3><strong>Practical Tips</strong></h3>
+<ul>
+<li><strong>Stay Legal:</strong> Get permission before accessing or testing anyone else’s system (penetration testing requires consent).</li>
+<li><strong>Avoid shady tools:</strong> Don’t use or distribute hacking software unless you’re authorized (e.g., ethical hacking with permission).</li>
+<li><strong>Report incidents:</strong> If you’re affected by cybercrime, report it to the police or relevant authorities (Action Fraud in the UK).</li>
+</ul>
+<p><strong>Bottom line</strong>: Stay out of systems that aren’t yours. No permission? It’s a crime!</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>UK Network Information Systems (NIS) Crib Sheet</title>
+        <author>
+            <name>GreatUnbroken</name>
+        </author>
+        <link href="https://tortoisesecurity.com/po/uk-network-information-systems-nis-crib-sheet/"/>
+        <id>https://tortoisesecurity.com/po/uk-network-information-systems-nis-crib-sheet/</id>
+            <category term="Crib Sheets"/>
+
+        <updated>2024-07-29T17:15:00+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <h4><strong>What is it?</strong></h4>
+<ul>
+<li>Stands for <strong>Network and Information Systems Directive</strong>.</li>
+<li>A <strong>cybersecurity law</strong> aimed at protecting essential services from cyber threats.</li>
+<li>Applies to operators of essential services (OES) and digital service providers (DSPs) across sectors like energy, health, transport, and finance.</li>
+</ul>
+<h3><strong>Key Goals</strong></h3>
+<ol>
+<li><strong>Strengthen cybersecurity</strong> for critical infrastructure and services.</li>
+<li><strong>Prevent and respond</strong> to cyber incidents that could disrupt essential services.</li>
+<li><strong>Encourage collaboration</strong> between organizations and government.</li>
+</ol>
+<h3><strong>Who’s Covered?</strong></h3>
+<ol>
+<li><strong>Operators of Essential Services (OES):</strong>
+<ul>
+<li>Energy, healthcare, transport, water, finance, and digital infrastructure companies.</li>
+</ul>
+</li>
+<li><strong>Digital Service Providers (DSPs):</strong>
+<ul>
+<li>Online marketplaces, search engines, and cloud service providers.</li>
+</ul>
+</li>
+</ol>
+<h3><strong>Key Requirements</strong></h3>
+<ol>
+<li>
+<p><strong>Implement Security Measures:</strong></p>
+<ul>
+<li>Take reasonable steps to prevent cyber threats (firewalls, encryption, etc.).</li>
+</ul>
+</li>
+<li>
+<p><strong>Incident Reporting:</strong></p>
+<ul>
+<li>Notify the authorities about significant security incidents <strong>ASAP</strong> (usually within 72 hours).</li>
+</ul>
+</li>
+<li>
+<p><strong>Risk Management:</strong></p>
+<ul>
+<li>Regularly assess and manage risks, not just tech but people and processes too.</li>
+</ul>
+</li>
+<li>
+<p><strong>Cooperation with Authorities:</strong></p>
+<ul>
+<li>Share relevant info with the National Cyber Security Centre (NCSC) and follow their guidelines.</li>
+</ul>
+</li>
+</ol>
+<h3><strong>Incident Reporting Basics</strong></h3>
+<ul>
+<li>Report incidents that <strong>disrupt essential services</strong> or compromise data security.</li>
+<li>Threshold: Impact on customers or systems? It needs reporting.</li>
+<li>Timing: <strong>72 hours</strong> to notify authorities.</li>
+</ul>
+<h3><strong>Fines</strong></h3>
+<ul>
+<li>Non-compliance can lead to fines of up to <strong>£17 million</strong> or <strong>4% of global turnover</strong> (whichever is higher).</li>
+</ul>
+<h3><strong>Practical Steps</strong></h3>
+<ul>
+<li><strong>Strengthen cybersecurity:</strong> Firewalls, monitoring tools, encryption, regular updates.</li>
+<li><strong>Incident response plans:</strong> Have a clear protocol for when something goes wrong.</li>
+<li><strong>Collaborate:</strong> Work with the NCSC and other bodies to stay compliant.</li>
+<li><strong>Train your team:</strong> Everyone needs to know how to spot and respond to threats.</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>UK GDPR Crib Sheet</title>
+        <author>
+            <name>GreatUnbroken</name>
+        </author>
+        <link href="https://tortoisesecurity.com/po/uk-gdpr-crib-sheet/"/>
+        <id>https://tortoisesecurity.com/po/uk-gdpr-crib-sheet/</id>
+            <category term="Crib Sheets"/>
+
+        <updated>2024-07-09T17:13:00+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <h4><strong>What is the UK GDPR?</strong></h4>
+<ul>
+<li>The UK General Data Protection Regulation (UK GDPR) governs how organizations collect, store, and use personal data in the UK.</li>
+<li>It mirrors the EU GDPR but applies specifically to the UK since Brexit.</li>
+<li>It's designed to protect people's privacy and gives them more control over their personal data.</li>
+</ul>
+<h3><strong>Definitions</strong></h3>
+<ul>
+<li><strong>Personal Data:</strong> Anything that identifies a person (name, email, address, IP address, etc.).</li>
+<li><strong>Data Subject:</strong> The person whose data is being processed.</li>
+<li><strong>Data Controller:</strong> The organization that decides why and how personal data is processed.</li>
+<li><strong>Data Processor:</strong> A third party that processes personal data on behalf of the controller.</li>
+</ul>
+<h3><strong>Core Principles</strong></h3>
+<ol>
+<li>
+<p><strong>Lawfulness, Fairness, and Transparency:</strong></p>
+<ul>
+<li>Only collect data if you have a legal reason (e.g., consent, contract).</li>
+<li>Be upfront and clear with people about how their data is used.</li>
+</ul>
+</li>
+<li>
+<p><strong>Purpose Limitation:</strong></p>
+<ul>
+<li>Only use data for the reason you collected it and nothing else (unless you get further consent).</li>
+</ul>
+</li>
+<li>
+<p><strong>Data Minimization:</strong></p>
+<ul>
+<li>Only collect the data you need, nothing more.</li>
+</ul>
+</li>
+<li>
+<p><strong>Accuracy:</strong></p>
+<ul>
+<li>Keep personal data accurate and up-to-date. Fix any mistakes quickly.</li>
+</ul>
+</li>
+<li>
+<p><strong>Storage Limitation:</strong></p>
+<ul>
+<li>Don’t keep data longer than you need it. Delete or anonymise it when done.</li>
+</ul>
+</li>
+<li>
+<p><strong>Integrity and Confidentiality (Security):</strong></p>
+<ul>
+<li>Keep data secure. Use encryption, strong passwords, and limit access to only those who need it.</li>
+</ul>
+</li>
+<li>
+<p><strong>Accountability:</strong></p>
+<ul>
+<li>Be able to show you’re following the rules (keep records, conduct audits, etc.).</li>
+</ul>
+</li>
+</ol>
+<h3><strong>Key Rights of Data Subjects</strong></h3>
+<ol>
+<li><strong>Right to Access:</strong> People can ask for copies of their data.</li>
+<li><strong>Right to Rectification:</strong> They can ask you to fix incorrect data.</li>
+<li><strong>Right to Erasure ("Right to be Forgotten"):</strong> People can request you delete their data, especially if it's no longer needed.</li>
+<li><strong>Right to Restrict Processing:</strong> Individuals can ask you to stop using their data without deleting it.</li>
+<li><strong>Right to Data Portability:</strong> They can ask for their data in a portable format (e.g., CSV file) to use elsewhere.</li>
+<li><strong>Right to Object:</strong> They can object to their data being used for certain things (like marketing).</li>
+<li><strong>Rights regarding automated decision-making:</strong> If decisions are made about someone using only automated processes, they can contest or request human intervention.</li>
+</ol>
+<h3><strong>Legal Bases for Processing Data</strong></h3>
+<p>You need at least one of these to collect/process data:</p>
+<ol>
+<li><strong>Consent:</strong> The person gave clear permission.</li>
+<li><strong>Contract:</strong> The data is needed to fulfil a contract.</li>
+<li><strong>Legal Obligation:</strong> You’re required by law to process the data.</li>
+<li><strong>Vital Interests:</strong> It’s necessary to protect someone’s life.</li>
+<li><strong>Public Task:</strong> You’re doing something for the public good.</li>
+<li><strong>Legitimate Interests:</strong> You have a legitimate reason to process the data (must balance your needs against people's rights).</li>
+</ol>
+<h3><strong>Data Breach Protocol</strong></h3>
+<ul>
+<li>If personal data is exposed or compromised, report it to the ICO (Information Commissioner's Office) within <strong>72 hours</strong>.</li>
+<li>Inform affected individuals if there’s a high risk to their privacy.</li>
+</ul>
+<h3><strong>Fines</strong></h3>
+<ul>
+<li>Minor breaches can cost up to <strong>£8.7 million</strong> or <strong>2% of global turnover</strong> (whichever is higher).</li>
+<li>Serious breaches can go up to <strong>£17.5 million</strong> or <strong>4% of global turnover</strong> (whichever is higher).</li>
+</ul>
+<h3><strong>Practical Tips</strong></h3>
+<ul>
+<li><strong>Get consent properly:</strong> Make sure people know exactly what they’re signing up for, don’t bundle consent, and make it easy for them to withdraw.</li>
+<li><strong>Data audits:</strong> Regularly check what data you have, why you have it, and if you really need it.</li>
+<li><strong>Train your team:</strong> Everyone handling personal data should know these rules.</li>
+<li><strong>Document everything:</strong> Keep records of how and why you're processing data.</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>CISM, part 1, enterprise governance</title>
+        <author>
+            <name>GreatUnbroken</name>
+        </author>
+        <link href="https://tortoisesecurity.com/po/cism-part-1-enterprise-governance/"/>
+        <id>https://tortoisesecurity.com/po/cism-part-1-enterprise-governance/</id>
+            <category term="CISM"/>
+
+        <updated>2024-06-17T19:25:00+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <p>As a basic organising principle, the post structure for this is going to align (broadly) with the Certified Information Security Manager (CISM) job practice areas:</p>
+<table class="align-center" style="border-collapse: collapse; width: 58.2621%; height: 259px;" border="1">
+<tbody>
+<tr>
+<td class="align-center" style="width: 50.1163%;">Area</td>
+<td class="align-center" style="width: 49.83%;">% Test Score</td>
+</tr>
+<tr>
+<td class="align-center" style="width: 50.1163%;">Governance</td>
+<td class="align-center" style="width: 49.83%;">17</td>
+</tr>
+<tr>
+<td class="align-center" style="width: 50.1163%;">Risk Management</td>
+<td class="align-center" style="width: 49.83%;">20</td>
+</tr>
+<tr>
+<td class="align-center" style="width: 50.1163%;">Info Sec Program</td>
+<td class="align-center" style="width: 49.83%;">33</td>
+</tr>
+<tr>
+<td class="align-center" style="width: 50.1163%;">Incident Management </td>
+<td class="align-center" style="width: 49.83%;">30</td>
+</tr>
+</tbody>
+</table>
+<p>But, I'm going to stray from the path sometimes if it makes sense to do that.</p>
+<p>Let's dive in.</p>
+<h2>Enterprise Governance</h2>
+<h3>What is it and what does it look like?</h3>
+<p>It's the process of the gods on high (senior mt) exerting control over business functions to make sure that the business meets its vision and objectives. Basically, all the stuff that you only really understand once you've been institutionalised: Policies, objectives, delegation of authority and so on. </p>
+<p>But its not just shit rolling down hill. Oh no no no. It's a two way process. They also want to see you dance up that hill, slippin' and slidin', with your performance indicators and reporting metrics to let them know whether the shit river needs to increase its flow or not. </p>
+<h3>Infosec Governance</h3>
+<p>Infosec governance is a fractal pattern of this bigger structure. It's also concerned with personnel management, vulnerability management, business continuity, risk management, and so on. It too uses metrics and scorecards to work out whether this stuff is working. </p>
+<p>The purpose of info sec gov is to help the business achieve its overall objectives.</p>
+<p>Now, like all niche things, infosec managers face an issue when they feed up into the wider governance structures. No one cares about this stuff provided things work and no-one has been hacked. And, moronically, it is still culturally acceptable for people to say "I'm just no good a tech stuff," which compounds the communication problems. (This is a pet peeve - computers have been a workplace fixture since the nineties...) </p>
+<p>Until this attitude is fixed at a societal level, the infosec manager has to be both interpreter and teacher to the rest of the wider governance structures.</p>
+<p>Info sec governance is (obviously) connected to other governance systems, such as IT governance. But, while some might say it's part of IT Governance, or could be, IMO those people are wrong. It's got to be independent. It's all about checks and balances. Have info sec as part of your wider IT team? You're on a hiding to nothing. </p>
+<blockquote id="blockQ">
+<p>I'm sorry mr IT director, but would you mind terribly delaying this multi-million pound infrastructure thing you're doing? You see, I have some sec concerns... What's that? You want to discuss it at my next performance review... oh, well, let me just check something... you know? It looks like those concerns have somehow melted away...</p>
+</blockquote>
+<h3>What does good info sec governance look like?</h3>
+<p>Well, it's basically what we just spoke about. It's having shit together so that what you're trying to achieve is clear (objectives) and how you're going to achieve it is clear (strategy). Then, its about wrapping this stuff up in a policy that links info sec to the goals of the wider business, and setting out the standards/processes etc. to which the rest of the org needs to work.</p>
+<p>Obviously, all this stuff doesn't exist in a vacuum, so the info sec manager needs to be aware of the wider business, and the wider operating environment. No good implementing a fortress of a sec program when the rest of the business is hell bent on "moving fast and breaking things." That's just going to lead to people bypassing you. </p>
+<hr>
+<p>That said, the law is the law - so you gotta know about rules and regs as standard. In the UK, as a starter for ten: The <a href="https://tortoisesecurity.com/po/uk-gdpr-crib-sheet/">Data Protection Act 2018</a> (DPA 2018), which enacts the General Data Protection Regulation (GDPR) into UK law, governs the handling of personal data and mandates strict security protocols. The <a href="https://tortoisesecurity.com/po/uk-network-information-systems-nis-crib-sheet/">Network and Information Systems</a> (NIS) Regulations 2018 impose security requirements on operators of essential services and digital service providers. Additionally, the <a href="https://tortoisesecurity.com/po/uk-computer-misuse-act-crib-sheet/">Computer Misuse Act 1990</a> outlines offenses related to unauthorized access or interference with computer systems. The Investigatory Powers Act 2016 regulates surveillance and access to communications, relevant for managing lawful interception and data protection practices. </p>
+<p>+ the rules and regs that then apply to your area... </p>
+<hr>
+<p>What's really important is that good info sec governance sees its activities take place in a methodical, committee-like environment and this determined by written docs. It's not ad hoc. It's ain't about busking it. If you can't say "this is the meeting/forum/group where we talk about x" or "this is the doc where it sets out who is a member of y group" then you're not doing good governance. </p>
+<p>Ultimately, there are two outcomes if everything goes well: improved reputation (of you, the business, the team), and more trust as a result. </p>
+<h2>Story time</h2>
+<p>The way I see it, governance is similar to big "G" governance. At least for democracies. </p>
+<p>As a core principle, you have separation of powers. Judiciary vs legislature vs the big guns of the executive. </p>
+<p>In a business, the executive is basically the CEO and their minions (c-suite folks). They can make decisions and have a massive amount of freedom, but this is constrained by organisational policy, the businesses charter, and so on. </p>
+<p>The people who decide on that is the board. They're the legislature (this analogy is already wearing thin). They vote on and set the guardrails for the C-suite. </p>
+<p>The judges? Well, I guess that's the external operating environment. The regulatory landscape. The big "L" law. This is the thing that keeps the board and the c-suite in check. </p>
+<p>Let's say that the CEO wants to sacrifice an employee to please the Dollar God. </p>
+<p>Well, first, they've got to check that the company guardrails allow them to make that sort of decision. If not, then they got to ask the board to change the rules to let them. </p>
+<p>Then, if the board says, "yeah, sure, but don't make a mess," then there is one final "check" on the CEO - laws and regs. </p>
+<p>Zooming into the engine rooms of the business, governance is then all about the beavering away that happens to help these three power bases interact. </p>
+<p>You've got the compliance people who are checking what the external laws/regs say about sacrifice. You've got groups meeting to draft up the sacrifice strategy. You've got another group designing the policy and accompanying scorecards to work out sacrifice rates and performance. You've got other people checking that the people carrying out the sacrifices are doing it according to what the policy says. </p>
+<p>And so on. </p>
+<p>It's a poor analogy, really, but it helps things to stick in my head.</p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>CISM, part 1, let me introduce myself</title>
+        <author>
+            <name>GreatUnbroken</name>
+        </author>
+        <link href="https://tortoisesecurity.com/po/cism-part-1-introduction/"/>
+        <id>https://tortoisesecurity.com/po/cism-part-1-introduction/</id>
+            <category term="CISM"/>
+
+        <updated>2024-06-10T17:00:00+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <p>So I'm self-studying for CISM. I don't really need it but its going to be a good way to recap info sec. </p>
+<p>I want to internalise this shit, so I'm occupying a tiny slice of a data centre to write about it. Something about it being "live" makes it more real.</p>
+<p>Over time, it might be fun to write about other stuff. Maybe make this into some dumping ground for anything I find interesting from an info sec perspective.</p>
+<p>About me? Well, for now, I'd rather not. </p>
+<p>Now... on to business.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
